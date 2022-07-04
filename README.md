@@ -10,3 +10,4 @@ Automatically sync my code from Baekjoon to GitHub
 - [ ] [3052. 나머지](https://www.acmicpc.net/problem/3052)
 - [ ] [1110. 더하기 사이클](https://www.acmicpc.net/problem/1110)
 - [ ] [8958. OX퀴즈](https://www.acmicpc.net/problem/8958)
+- [ ] [10809. 알파벳 찾기](https://www.acmicpc.net/problem/10809) : `find()` 함수 이해
