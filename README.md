@@ -11,3 +11,4 @@ Automatically sync my code from Baekjoon to GitHub
 - [ ] [1110. 더하기 사이클](https://www.acmicpc.net/problem/1110)
 - [ ] [8958. OX퀴즈](https://www.acmicpc.net/problem/8958)
 - [ ] [10809. 알파벳 찾기](https://www.acmicpc.net/problem/10809) : `find()` 함수 이해
+- [ ] [2675. 문자열 반복](https://www.acmicpc.net/problem/2675) : `print()` 함수 `end = ''` 옵션 이해
