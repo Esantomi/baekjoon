@@ -1,4 +1,4 @@
 N = int(input())
-val = sum(list(map(int, list(input()))))
+val = sum(list(map(int, input())))
 
 print(val)
