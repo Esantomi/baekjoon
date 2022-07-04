@@ -1,7 +1,10 @@
 # baekjoon
 Automatically sync my code from Baekjoon to GitHub
 
-## 다시 풀기
+## 어려웠던 문제
+- [ ] [1110. 더하기 사이클](https://www.acmicpc.net/problem/1110)
+
+## 다시 풀어 볼 문제
 - [ ] [2525. 오븐 시계](https://www.acmicpc.net/problem/2525)
 - [ ] [2884. 알람 시계](https://www.acmicpc.net/problem/2884)
 - [X] [2742. 기찍 N](https://www.acmicpc.net/problem/2742)
