@@ -18,3 +18,4 @@ Automatically sync my code from Baekjoon to GitHub
 - [ ] [3009. 네 번째 점](https://www.acmicpc.net/problem/3009) : 새로운 것은 없으나 다시 한번 해 보기
 - [ ] [1284. 집 주소](https://www.acmicpc.net/problem/1284) : 간단한 구현 문제. 다시 한번 해 보기
 - [ ] [2752. 세수정렬](https://www.acmicpc.net/problem/2752) : `sorted()` 함수, `*` 용법 이해
+- [ ] [2845. 파티가 끝나고 난 뒤](https://www.acmicpc.net/problem/2845) : `list comprehension`으로 풀어 보기
