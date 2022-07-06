@@ -14,3 +14,4 @@ Automatically sync my code from Baekjoon to GitHub
 - [ ] [2675. 문자열 반복](https://www.acmicpc.net/problem/2675) : `print()` 함수 `end = ''` 옵션 이해
 - [ ] [1157. 단어 공부](https://www.acmicpc.net/problem/1157) : `count()`, `find()`, `index()` 함수 이해
 - [ ] [2908. 상수](https://www.acmicpc.net/problem/2908) : `join()` 함수 사용법 복습
+- [ ] [10872. 팩토리얼](https://www.acmicpc.net/problem/10872) : 재귀에 대한 이해
