@@ -2,6 +2,7 @@
 Automatically sync my code from Baekjoon to GitHub
 
 ## 다시 풀어 볼 문제
+### Bronze
 - [ ] [2525. 오븐 시계](https://www.acmicpc.net/problem/2525)
 - [ ] [2884. 알람 시계](https://www.acmicpc.net/problem/2884)
 - [X] [2742. 기찍 N](https://www.acmicpc.net/problem/2742) : 내장 함수 `reversed()` 이해
@@ -19,3 +20,5 @@ Automatically sync my code from Baekjoon to GitHub
 - [ ] [1284. 집 주소](https://www.acmicpc.net/problem/1284) : 간단한 구현 문제. 다시 한번 해 보기
 - [ ] [2752. 세수정렬](https://www.acmicpc.net/problem/2752) : `sorted()` 함수, `*` 용법 이해
 - [ ] [2845. 파티가 끝나고 난 뒤](https://www.acmicpc.net/problem/2845) : `list comprehension`으로 풀어 보기
+### Silver
+- [ ] [1620. 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) : `lambda`, `sys.stdin.readline()`, `isdigit()` 함수, dictionary 자료형 이해
