@@ -20,5 +20,6 @@ Automatically sync my code from Baekjoon to GitHub
 - [ ] [1284. 집 주소](https://www.acmicpc.net/problem/1284) : 간단한 구현 문제. 다시 한번 해 보기
 - [ ] [2752. 세수정렬](https://www.acmicpc.net/problem/2752) : `sorted()` 함수, `*` 용법 이해
 - [ ] [2845. 파티가 끝나고 난 뒤](https://www.acmicpc.net/problem/2845) : `list comprehension`으로 풀어 보기
+- [ ] [4344. 평균은 넘겠지](https://www.acmicpc.net/problem/4344) : list slicing과 f-string의 소수점 설정 이해
 ### Silver
 - [ ] [1620. 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) : `lambda`, `sys.stdin.readline()`, `isdigit()` 함수, dictionary 자료형 이해
