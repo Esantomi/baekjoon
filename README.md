@@ -1,5 +1,9 @@
 # baekjoon
 Automatically sync my code from Baekjoon to GitHub
+### Lectures
+- [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) : 백준 문제집 with Python/C++/JAVA 풀이
+- [BaaaaaaaarkingDog 실전 알고리즘](https://blog.encrypted.gg/category/강좌/실전%20알고리즘) : C나 C++ 기반 블로그 강의
+- [Jinhan's Note](https://blog.naver.com/jinhan814) : 위와 상동, 즉 C와 C++ 기반 네이버 블로그 정리
 
 ## BOJ Tier
 <div align="center">
