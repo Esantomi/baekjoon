@@ -13,7 +13,7 @@ Automatically sync my code from Baekjoon to GitHub
 - [ ] [2884. 알람 시계](https://www.acmicpc.net/problem/2884)
 - [X] [2742. 기찍 N](https://www.acmicpc.net/problem/2742) : 내장 함수 `reversed()` 이해
 - [X] [10818. 최소, 최대](https://www.acmicpc.net/problem/10818) : `min()`, `max()` 이해
-- [ ] [2439. 별 찍기 - 2](https://www.acmicpc.net/problem/2439)
+- [ ] [2439. 별 찍기 - 2](https://www.acmicpc.net/problem/2439) : `rjust()`, `ljust()` 함수 이해, 머리 써서 풀기
 - [ ] [3052. 나머지](https://www.acmicpc.net/problem/3052)
 - [ ] [1110. 더하기 사이클](https://www.acmicpc.net/problem/1110)
 - [ ] [8958. OX퀴즈](https://www.acmicpc.net/problem/8958)
