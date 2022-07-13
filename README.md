@@ -22,6 +22,7 @@ Automatically sync my code from Baekjoon to GitHub
 - [ ] [2845. 파티가 끝나고 난 뒤](https://www.acmicpc.net/problem/2845) : `list comprehension`으로 풀어 보기
 - [ ] [4344. 평균은 넘겠지](https://www.acmicpc.net/problem/4344) : list slicing과 f-string의 소수점 설정 이해
 - [ ] [5622. 다이얼](https://www.acmicpc.net/problem/5622) : 이중 for문, `index()` 함수 이해
+- [ ] [2798. 블랙잭](https://www.acmicpc.net/problem/2798) : 삼중 for문, `max()` 함수 이해
 ### Silver
 - [ ] [1620. 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) : `lambda`, `sys.stdin.readline()`, `isdigit()` 함수, dictionary 자료형 이해
 - [ ] [4673. 셀프 넘버](https://www.acmicpc.net/problem/4673) : `set()`, `set.add()` 함수, 수학적 개념의 정확한 이해 (list로도 풀어 보기)
