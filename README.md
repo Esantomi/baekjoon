@@ -1,7 +1,13 @@
 # baekjoon
 Automatically sync my code from Baekjoon to GitHub
 
-## 다시 풀어 볼 문제
+## BOJ Tier
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Esantomi">
+  <img src="http://mazandi.herokuapp.com/api?handle=Esantomi"/>
+</div>
+
+## For Review
 ### Bronze
 - [ ] [2525. 오븐 시계](https://www.acmicpc.net/problem/2525)
 - [ ] [2884. 알람 시계](https://www.acmicpc.net/problem/2884)
