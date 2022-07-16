@@ -35,6 +35,7 @@ Automatically sync my code from Baekjoon to GitHub
 - [ ] [2798. 블랙잭](https://www.acmicpc.net/problem/2798) : 삼중 for문, `max()` 함수 이해, Brute Force 알고리즘 익숙해지기
 - [ ] [1032. 명령 프롬프트](https://www.acmicpc.net/problem/1032) : `''.join()` 함수 이해
 - [ ] [2738. 행렬 덧셈](https://www.acmicpc.net/problem/2738) : 다중 할당(Multiple assignment), 다중 인덱스(Multi index), `*` 이해
+- [ ] [5532. 방학 숙제](https://www.acmicpc.net/problem/5532) : `math` 모듈, `if __name__ == "__main__":` 이해 (헷갈리는 문제 서술)
 ### Silver
 - [ ] [1620. 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) : `lambda`, `sys.stdin.readline()`, `isdigit()` 함수, dictionary 자료형 이해
 - [ ] [4673. 셀프 넘버](https://www.acmicpc.net/problem/4673) : `set()`, `set.add()` 함수, 수학적 개념의 정확한 이해 (list로도 풀어 보기)
