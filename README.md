@@ -42,3 +42,4 @@ Automatically sync my code from Baekjoon to GitHub
 - [ ] [1620. 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) : `lambda`, `sys.stdin.readline()`, `isdigit()` 함수, dictionary 자료형 이해
 - [ ] [4673. 셀프 넘버](https://www.acmicpc.net/problem/4673) : `set()`, `set.add()` 함수, 수학적 개념의 정확한 이해 (list로도 풀어 보기)
 - [ ] [2822. 점수 계산](https://www.acmicpc.net/problem/2822) : 다시 풀어 보기
+- [ ] [2740. 행렬 곱셈](https://www.acmicpc.net/problem/2740) : list comprehension 좀 익숙해지고, 구현 고민! (그냥 다 외우기)
