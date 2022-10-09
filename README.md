@@ -39,6 +39,7 @@ Automatically sync my code from Baekjoon to GitHub
 - [ ] [2744. 대소문자 바꾸기](https://www.acmicpc.net/problem/2744) : `swapcase()` 이해. 문제는 아주 쉬움 (list로도 string으로도 풀어 볼 것)
 - [ ] [11718. 그대로 출력하기](https://www.acmicpc.net/problem/11718) : `EOFError` 이해. `sys.stdin.readline()`으로 풀어 보기
 - [ ] [14720. 우유 축제](https://www.acmicpc.net/problem/14720) : 까다로운 발상
+- [ ] [17174. 전체 계산 횟수](https://www.acmicpc.net/problem/17174) : while문에 대한 이해
 ### Silver
 - [ ] [1620. 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) : `lambda`, `sys.stdin.readline()`, `isdigit()` 함수, dictionary 자료형 이해
 - [ ] [4673. 셀프 넘버](https://www.acmicpc.net/problem/4673) : `set()`, `set.add()` 함수, 수학적 개념의 정확한 이해 (list로도 풀어 보기)
